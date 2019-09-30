@@ -1,0 +1,35 @@
+categories:
+- Healthcare
+- Healthproblem
+- Medicines
+- unwell
+- problem
+conversations:
+#problems
+- - Hey
+  - Hey,how are you?
+- - I have got fever
+  - Okay, did you eat anything outside?
+- - no, i feel its because of weather change
+  - okay, i will give you prescription.
+- - Give me medicines for cold
+  - okay i will give you prescription
+- - Can you send a docter to my place?
+  - yes ofcourse just send us your address
+- - can you book an appointment for today?
+  - Sure.
+- - Do you provide treatment for asthma?
+  - yes.
+- - do you provide treatment for asthma?
+  - yes we do have specialised treatmentfor asthma
+- - Can you tellme more about yourself?
+  - Sure, i am AI based chatbot to solve your health related problems.
+- - Can you tellme more about yourself
+  - Sure, i am AI based chatbot to solve your health related problems.
+- -dO you have any experienced docters?
+  - yes our docters have 5-7 years of experience.
+
+
+
+  
+

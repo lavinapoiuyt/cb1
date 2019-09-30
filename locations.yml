@@ -1,0 +1,212 @@
+categories:
+- location
+- address
+- maps
+- google maps
+- map
+- branch
+conversations:
+# Location
+- - Where is your healthcare located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - located
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - location?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - locations?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - What is your location?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Address?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Address
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - What is your address?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Can I get your restaurant address?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where are you situated?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Tell me the location
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Tell me the address
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where is your hotel located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where is exactly located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Send me your address
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Tell me your full address
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Is there a landmark nearby?
+  - Yes near xavier college of engineering. We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Any landmark nearby?
+  - Yes near xavier college of engineering. We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where are you guys located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+
+# Maps starts here
+
+- - Can you send me your google map location?
+  - Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - What are the directions for the healthcare?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Send me directions?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - What are the direction for the healthcare?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - What the directions for the healthcare?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open location on the maps
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open locations on the maps?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open location on the map
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open locations on the map
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Directions please
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Can I get directions to the Healthcare?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Direction please
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Can I get direction to the healthcare?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Direction
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Directions
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Can I get directions to the hospital?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Can I get directions to your hospital?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open location on google maps
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Google maps locations
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Google maps directions
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open maps
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open direction on maps?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open directions on maps
+  - Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Send me direction?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Send me location?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Send me locations?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open direction on map?
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open directions on map
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open location on maps
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open locations on maps
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open location on map
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+- - Open locations on map
+  -  Sure. https://www.google.com/maps/dir/19.0488576,72.8629248/raheja+hospital/@19.0491659,72.8342644,14z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x3be7c92f84c13ec9:0x807c1cbf1b5e8536!2m2!1d72.8426792!2d19.0462839
+
+# Some more locations.........................................................................
+- - Where are you located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where is your restaurant?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where is healthcare located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Healthcare is at?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Healthcare is where in mahim?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where in mahim?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+- - Where in mahim are you located?
+  - We are located at Mahim West,Mumbai. The address is Raheja Rugnalaya Marg, Mahim West, Mahim, Mumbai, Maharashtra 400016
+# Branch ........................................................................................................
+- - Do you have branches elsewhere?
+  - No we don't have any other branch.
+- - Do you have any branch?
+  - No we don't have any other branch.
+- - Any branches?
+  - No we don't have any other branch.
+- - Any branch?
+  - No we don't have any other branch.
+- - Do you have branch anywhere else in Mumbai?
+  - No we don't have any other branch.
+- - Any branch in Mumbai?
+  - No we don't have any other branch.
+- - Any more branches?
+  - No we don't have any other branch.
+- - Any more branch?
+  - No we don't have any other branch.
+- - Do you have branches anywhere else in Mumbai?
+  - No we don't have any other branch.
+- - Any branches in Mumbai?
+  - No we don't have any other branch.
+- - Are you the only one ?
+  - No we don't have any other branch.
+- - Branches?
+  - No we don't have any other branch.
+- - Branch?
+  - No we don't have any other branch.
+- - Branches anywhere?
+  - No we don't have any other branch.
+- - Send me address of other branch?
+  - No we don't have any other branch.
+- - Send me location of the other branch?
+  - No we don't have any other branch.
+- - Send me address of other branches?
+  - No we don't have any other branch.
+- - Send me location of the other branch?
+  - No we don't have any other branch.
+- - Do you have branch elsewhere?
+  - No we don't have any other branch.
+- - Do you have branches somewhere?
+  - No we don't have any other branch.
+- - Do you have branch somewhere?
+  - No we don't have any other branch.
+- - Do you have branch?
+  - No we don't have any other branch.
+- - Do you have a branches?
+  - No we don't have any other branch.
+- - Any other branch?
+  - No we don't have any other branch.
+- - Location of other branch?
+  - No we don't have any other branch.
+- - Where is your other branch?
+  - No we don't have any other branch.
+- - Any other branches?
+  - No we don't have any other branch.
+- - Location of other branches?
+  - No we don't have any other branch.
+- - Where is your other branches?
+  - No we don't have any other branch.
+- - Branch anywhere?
+  - No we don't have any other branch.
+- - branches anywhere?
+  - No we don't have any other branch.
+- - branches elsewhere?
+  - No we don't have any other branch.
+- - branches?
+  - No we don't have any other branch.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
